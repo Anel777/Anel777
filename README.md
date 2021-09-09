@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anel777
+- 👋 Hi, I’m @anel777
 - 👀 I’m interested in Hacking and gaming
 - 🌱 I’m currently learning How to write code and scripts
 
