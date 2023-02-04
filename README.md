@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anel777
+- 👋 Hi, I’m Anel
 
 
 
