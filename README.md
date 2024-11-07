@@ -1,8 +1,35 @@
-- 👋 Hi, I’m Anel
+<div align="center">
+  <h1>👋 Hi, I'm Anel</h1>
+  <p><em>Django Developer & Former ML Intern</em></p>
+</div>
 
+### 🛠️ Tech Stack
+- Python | Django
+- Machine Learning Libraries
+- API Integration
 
+### 💻 Notable Projects
+- 📋 **Task Management System**
+  - Built with AI-powered task assignment suggestions
+  - Streamlined workflow management
 
-<!---
-Anel777/Anel777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📄 **Document Automation Tool**
+  - Automated invoice and proposal generation
+  - Improved document processing efficiency
+
+- 📊 **Data Analytics Platform**
+  - Graph API integration
+  - Automated report generation
+
+### 💪 Core Strengths
+- Problem-solving driven development
+- Rapid learning & adaptation
+- Clean, maintainable code
+
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
+
+---
+<div align="center">
+  <em>Currently employed and building cool stuff! 🚀</em>
+</div>
