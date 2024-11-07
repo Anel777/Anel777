@@ -1,35 +1,84 @@
 <div align="center">
-  <h1>👋 Hi, I'm Anel</h1>
-  <p><em>Django Developer & Former ML Intern</em></p>
+
+![Waves Graph](github-stats-graph.svg)
+
+# ⚡ Anel ⚡
+*Django Developer & ML Enthusiast*
+
+![Skills Hexagon](skill-chart.svg)
+
 </div>
 
-### 🛠️ Tech Stack
-- Python | Django
-- Machine Learning Libraries
-- API Integration
+<!-- Dynamic typing effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B5FF7&center=true&vCenter=true&width=435&lines=Python+Developer;Machine+Learning+Engineer;Problem+Solver)](https://git.io/typing-svg)
 
-### 💻 Notable Projects
-- 📋 **Task Management System**
-  - Built with AI-powered task assignment suggestions
-  - Streamlined workflow management
+<div align="center">
 
-- 📄 **Document Automation Tool**
-  - Automated invoice and proposal generation
-  - Improved document processing efficiency
+## 💫 Tech Cosmos
 
-- 📊 **Data Analytics Platform**
-  - Graph API integration
-  - Automated report generation
+```mermaid
+mindmap
+  root((Tech Stack))
+    Python
+      Django
+      FastAPI
+    Machine Learning
+      Neural Networks
+      Data Analysis
+    Tools
+      Git
+      Docker
+```
 
-### 💪 Core Strengths
-- Problem-solving driven development
-- Rapid learning & adaptation
-- Clean, maintainable code
+## 🚀 Projects Galaxy
 
-### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
+![](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=task-management&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=document-automation&theme=tokyonight)
+
+## 📊 Stats Constellation
+
+<!-- Replace with your GitHub username -->
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)
+
+## 🎯 Core Strengths
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+      <br>
+      <strong>Problem Solving</strong>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100">
+      <br>
+      <strong>Quick Learning</strong>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
+      <br>
+      <strong>Clean Code</strong>
+    </td>
+  </tr>
+</table>
+
+## 🔗 Connect
+
+<div align="center">
+  <a href="Your-LinkedIn-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<!-- Activity Graph -->
+![Activity](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
+
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet)
 
 ---
 <div align="center">
-  <em>Currently employed and building cool stuff! 🚀</em>
+  
+*🌟 Currently crafting digital solutions and exploring new technologies 🌟*
+
 </div>
