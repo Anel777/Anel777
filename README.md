@@ -12,23 +12,11 @@
 <!-- Skills Section -->
 <div align="center">
   <h2>💫 Technologies & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=python,django,git,docker,mysql,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,git,mysql,linux" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js" />
 </div>
 
-<!-- Projects Section -->
-## 🚀 Projects Galaxy
-
-<!-- Project Cards -->
-<div align="center">
-  <a href="https://github.com/anel777/task-management">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anel777&repo=task-management&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anel777/document-automation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anel777&repo=document-automation&theme=tokyonight" />
-  </a>
-</div>
 
 <!-- Tech Stack Mindmap -->
 ## 💻 Tech Universe
@@ -38,15 +26,12 @@ mindmap
     Backend
       Python
       Django
-      FastAPI
     Data
       ML Libraries
       SQL
       Analytics
     DevOps
       Git
-      Docker
-      AWS
 ```
 
 <!-- GitHub Stats -->
