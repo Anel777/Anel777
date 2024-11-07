@@ -1,0 +1,46 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skillGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4158D0" />
+      <stop offset="100%" style="stop-color:#C850C0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rotating hexagon -->
+  <g transform="translate(200,200)">
+    <animateTransform attributeName="transform"
+                      attributeType="XML"
+                      type="rotate"
+                      from="0 200 200"
+                      to="360 200 200"
+                      dur="20s"
+                      repeatCount="indefinite"/>
+    
+    <!-- Hexagon segments -->
+    <path d="M 0,-100 L 86.6,-50 L 86.6,50 L 0,100 L -86.6,50 L -86.6,-50 Z" 
+          fill="none" 
+          stroke="url(#skillGradient)" 
+          stroke-width="2">
+    </path>
+    
+    <!-- Skill points -->
+    <circle cx="0" cy="-100" r="5" fill="#4158D0">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="86.6" cy="-50" r="5" fill="#4158D0">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite" begin="0.3s"/>
+    </circle>
+    <circle cx="86.6" cy="50" r="5" fill="#C850C0">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite" begin="0.6s"/>
+    </circle>
+    <circle cx="0" cy="100" r="5" fill="#C850C0">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite" begin="0.9s"/>
+    </circle>
+    <circle cx="-86.6" cy="50" r="5" fill="#FFCC70">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite" begin="1.2s"/>
+    </circle>
+    <circle cx="-86.6" cy="-50" r="5" fill="#FFCC70">
+      <animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+  </g>
+</svg>
