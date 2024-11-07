@@ -32,13 +32,13 @@ mindmap
 
 ## 🚀 Projects Galaxy
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=task-management&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=document-automation&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/pin/?username=anel777&repo=task-management&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/pin/?username=anel777&repo=document-automation&theme=tokyonight)
 
 ## 📊 Stats Constellation
 
 <!-- Replace with your GitHub username -->
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=anel777&theme=tokyonight)
 
 ## 🎯 Core Strengths
 
@@ -71,10 +71,10 @@ mindmap
 </div>
 
 <!-- Activity Graph -->
-![Activity](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
+![Activity](https://activity-graph.herokuapp.com/graph?username=anel777&theme=react-dark)
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=anel777&color=blueviolet)
 
 ---
 <div align="center">
